@@ -1,6 +1,6 @@
 
-import Counter from "./components/Counter"
+import Application from "./components/Application"
 
-const App = () => <Counter/>
+const App = () => <Application/>
 
 export default App
